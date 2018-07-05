@@ -6,7 +6,7 @@
     {
         public static string API_KEY {
             private set { }
-            get { return "AIzaSyBw6oFYnxCBZSoRVRC4uATQ0sr2RzZijDo"; }
+            get { return ""; }
         }
 
         public static int GPS_TIMEOUT_LIMIT {
