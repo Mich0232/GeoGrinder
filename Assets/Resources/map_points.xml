@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<MapPointDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <list>
+    <MapPointEntry>
+      <id>3</id>
+      <latlon>
+        <x>50.0668869</x>
+        <y>19.9136181</y>
+      </latlon>
+      <label>AGH</label>
+    </MapPointEntry>
+    <MapPointEntry>
+      <id>1</id>
+      <latlon>
+        <x>50.05782</x>
+        <y>19.9204617</y>
+      </latlon>
+      <label>Cracovia</label>
+    </MapPointEntry>
+    <MapPointEntry>
+      <id>1</id>
+      <latlon>
+        <x>50.0637054</x>
+        <y>19.9117889</y>
+      </latlon>
+      <label>Wis?a Krak�w</label>
+    </MapPointEntry>
+    <MapPointEntry>
+      <id>2</id>
+      <latlon>
+        <x>50.06364</x>
+        <y>19.932476</y>
+      </latlon>
+      <label>Teatr Bagatela</label>
+    </MapPointEntry>
+  </list>
+</MapPointDataBase>
